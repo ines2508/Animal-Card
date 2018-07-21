@@ -35,6 +35,9 @@ h3 {
     font-size: 1.5em;
     padding: 20px 0 15px 10px
 }
+img {
+    margin: auto
+}
 .facts {
     font-style: italic;
     font-weight: 400;
