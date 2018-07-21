@@ -16,6 +16,11 @@ flex-flow: row wrap;
 flex-wrap: wrap;
 margin: auto
 }
+h3 {
+    color: #FBA500;
+    font-size: 1.5em;
+    padding: 20px 0 15px 10px
+}
 .facts {
     font-style: italic;
     font-weight: 400;
