@@ -1,14 +1,16 @@
 /* add your CSS here */
 * {
     margin: 0;
-    padding: 0;
+    padding: 0
 }
+
 html, body {
 
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 300;
-    color: #01476A;
+    color: #01476a
 }
+
 .content {
     width: 100vw;
     max-width: 330px;
@@ -21,45 +23,52 @@ html, body {
     border-radius: 15px 60px 30px 30px;
     -moz-border-radius: 15px 60px 30px 30px;
     -webkit-border-radius: 15px 60px 30px 30px;
-    border: 7px solid #dbdbdb;
+    border: 7px solid #dbdbdb
 }
+
 .section {
     padding: 25px 15px 35px 15px;
     margin: 15px;
     border-radius: 0px 0px 15px 15px;
     -moz-border-radius: 0px 0px 15px 15px;
     -webkit-border-radius: 0px 0px 15px 15px;
-    border: 2px solid #fff1d4;
+    border: 2px solid #fff1d4
 }
+
 h3 {
-    color: #FBA500;
+    color: #fba500;
     font-size: 1.5em;
     padding: 20px 0 15px 30px
 }
+
 img {
     margin: auto
 }
+
 .facts {
     font-style: italic;
     font-weight: 400;
     font-size: 1.0em;
     line-height: 1.4em;
     text-align: center
-    
 }
+
 ul {
     padding: 20px 0 30px 25px
 }
+
 li {
     font-size: 1.4em;
-    color: 	#028BCF;
-    list-style-type: none;
+    color: 	#028bcf;
+    list-style-type: none
 }
+
 li span {
     font-weight: 700;
     font-size: 0.7em
 }
+
 .info {
     line-height: 1.5em;
-    text-align: justify;
+    text-align: justify
 }
