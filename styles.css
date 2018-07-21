@@ -30,7 +30,8 @@ h3 {
 }
 li {
     font-size: 1.4em;
-    color: 	#028BCF
+    color: 	#028BCF;
+    list-style-type: none;
 }
 li span {
     font-weight: 700;
