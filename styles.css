@@ -15,3 +15,6 @@ flex-flow: row wrap;
 flex-wrap: wrap;
 margin: auto
 }
+.facts {
+    font-style: italic
+}
