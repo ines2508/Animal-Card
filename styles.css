@@ -24,7 +24,7 @@ html, body {
     border: 7px solid #dbdbdb;
 }
 .section {
-    padding: 15px;
+    padding: 25px 15px 35px 15px;
     margin: 15px;
     border-radius: 0px 0px 15px 15px;
     -moz-border-radius: 0px 0px 15px 15px;
@@ -61,5 +61,5 @@ li span {
 }
 .info {
     line-height: 1.5em;
-    text-align: justify
+    text-align: justify;
 }
