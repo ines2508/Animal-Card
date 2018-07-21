@@ -42,7 +42,10 @@ img {
 .facts {
     font-style: italic;
     font-weight: 400;
-    font-size:1.1em
+    font-size: 1.0em;
+    line-height: 1.4em;
+    text-align: center
+    
 }
 ul {
     padding: 20px 0 30px 30px
@@ -55,4 +58,8 @@ li {
 li span {
     font-weight: 700;
     font-size: 0.7em
+}
+.info {
+    line-height: 1.5em;
+    text-align: justify
 }
