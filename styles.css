@@ -16,7 +16,11 @@ display: flex;
 -webkit-flex-row: row wrap;
 flex-flow: row wrap;
 flex-wrap: wrap;
-margin: auto
+margin: auto;
+border-radius: 0px 53px 0px 0px;
+-moz-border-radius: 0px 53px 0px 0px;
+-webkit-border-radius: 0px 53px 0px 0px;
+border: 2px solid #cfcfcf;
 }
 h3 {
     color: #FBA500;
